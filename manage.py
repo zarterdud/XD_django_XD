@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Инкапсуляция - это сокрытие(от Зайцева))))
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
