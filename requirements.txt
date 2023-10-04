@@ -1,1 +1,3 @@
 # python manage.py runserver
+# Чтоб все работало по кайфу, то есть .env.example, там все то же самое, что
+# и в .env, т.е. ctrl + C и ctrl + V в settings.py и все будет найс работать
