@@ -25,7 +25,6 @@ Pillow==10.0.0
 pydantic==2.3.0
 pydantic_core==2.6.3
 pytz==2023.3
-pywin32==306
 requests==2.31.0
 sentry-sdk==1.29.2
 sqlparse==0.4.4
