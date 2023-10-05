@@ -19,7 +19,6 @@ cycler==0.11.0
 DAWG-Python==0.7.2
 deepface==0.0.75
 Django==4.2.4
-dlib @ file:///C:/Users/Centr/Desktop/face_recog_dlib_file-master/dlib-19.19.0-cp38-cp38-win_amd64.whl
 docopt==0.6.2
 docxcompose==1.4.0
 docxtpl==0.16.5
