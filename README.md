@@ -16,7 +16,7 @@ git clone https://github.com/zarterdud/XD_django_XD
 2. Install dependencies
 
 ```python
-pip install django
+pip -r requirements.txt
 ```
 
 3. Run the app
