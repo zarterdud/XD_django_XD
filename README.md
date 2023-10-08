@@ -4,7 +4,7 @@
 
 ## 🛠️ Installation Steps
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django) ![Gitlab code coverage (self-managed, specific job)](https://img.shields.io/gitlab/pipeline-coverage/:XD_django_XD) ![Gitlab pipeline status (self-managed)](https://img.shields.io/gitlab/pipeline-status/:XD_django_XD)
 
 
 
