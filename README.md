@@ -7,6 +7,8 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
 
 
+
+
 1. Clone the repository
 
 ```bash
