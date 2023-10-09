@@ -11,5 +11,5 @@ class HomepageTests(TestCase):
 
 class Static(TestCase):
     def test_homepage_endpoint(self):
-        response = Client().get('/')
+        response = Client().get("/")
         self.assertEqual(response.status_code, 200)
